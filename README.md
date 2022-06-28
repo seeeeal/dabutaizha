@@ -4,7 +4,7 @@
 - 🚀 大四开发网页爬虫APP-句子迷（后主动下架）
 - 🍍 20年开发思维导图工具-至简导图
 - ⭐️ 21年开发倒数日工具-好友日历
-- 🍚 22年研究如何治疗IBS/肠易激综合征
+- 🍚 22年研究IBS/肠易激综合征的治疗与康复
 
 #### 低光时刻:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabutaizha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
